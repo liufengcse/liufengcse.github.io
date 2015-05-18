@@ -4,10 +4,9 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
-熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+我，一个硅谷程序员
+热爱编程
+对大数据和分布式系统感兴趣
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+个人邮箱:liufengcse@gmail.com      
+github : [https://github.com/liufengcse](https://github.com/liufengcse)      
