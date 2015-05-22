@@ -2,6 +2,7 @@
 layout: post
 title: Building Spark in Intellij
 categories:
+- 不学无术
 
 tags:
 - Spark
